@@ -1,0 +1,20 @@
+.layout-content {
+    padding: 0 .5em;
+}
+article {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background: darkgray;
+}
+.field {
+    border-radius: 5px;
+    background: lightgray;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.views-field {
+    padding: 0 4px;
+}

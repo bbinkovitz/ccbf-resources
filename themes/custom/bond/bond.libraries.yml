@@ -1,0 +1,13 @@
+bootstrap:
+    css:
+        base:
+            css/bootstrap/bootstrap.css: {}
+            css/bootstrap/bootstrap-theme.css: {}
+    js:
+        base:
+            js/bootstrap/bootstrap.min.js: {}
+global:
+    css:
+        base:
+            css/global.css: {}
+

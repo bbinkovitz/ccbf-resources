@@ -1,0 +1,12 @@
+name: Bond
+type: theme
+description: 'Theme for the Chicago Community Bond Fund resource database'
+core: 8.x
+base theme: classy
+libraries:
+  - bond/global
+  - bond/bootstrap
+regions:
+  header: Header
+  content: Content
+  footer: Footer
